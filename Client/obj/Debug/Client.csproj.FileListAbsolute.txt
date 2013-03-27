@@ -1,0 +1,16 @@
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Client.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Generic Repository Test.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\StructureMap.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Topshelf.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\ViewModel.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\EntityFramework.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Generic Repository Test.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\ViewModel.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\StructureMap.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\StructureMap.xml
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\EntityFramework.xml
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\obj\Debug\Client.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Client.exe.config
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\bin\Debug\Client.exe
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Client\obj\Debug\Client.exe

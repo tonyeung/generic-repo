@@ -1,0 +1,10 @@
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\ViewModel.dll.config
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\ViewModel.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\ViewModel.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\EntityFramework.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\Generic Repository Test.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\Generic Repository Test.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\bin\Debug\EntityFramework.xml
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\obj\Debug\ViewModel.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\ViewModel\obj\Debug\ViewModel.pdb

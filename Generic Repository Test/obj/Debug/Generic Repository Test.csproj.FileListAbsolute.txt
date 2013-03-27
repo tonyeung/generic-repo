@@ -1,0 +1,8 @@
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\bin\Debug\Generic Repository Test.dll.config
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\bin\Debug\Generic Repository Test.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\bin\Debug\Generic Repository Test.pdb
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\bin\Debug\EntityFramework.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\bin\Debug\EntityFramework.xml
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\obj\Debug\Generic Repository Test.csprojResolveAssemblyReference.cache
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\obj\Debug\Generic Repository Test.dll
+c:\users\ton\documents\visual studio 2012\Projects\Generic Repository Test\Generic Repository Test\obj\Debug\Generic Repository Test.pdb
